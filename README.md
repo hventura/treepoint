@@ -2,11 +2,11 @@
   <img src="screenshots/logo_app.png" alt="Logo TreePoint" width="150"/>
 </div>
 
-A aplicação TreePoint, desenvolvida no âmbito das duas Comunidades Intermunicipais (CIMs), visa apoiar o registo arbóreo de cada região. A aplicação utiliza uma ligação por Bluetooth a um GPS externo que é colocado em cada árvore. Em seguida, um técnico preenche os dados da árvore no dispositivo móvel. Assim que possível, o registo é enviado para a base de dados. A aplicação permite agregar uma ou mais fotografias da árvore ao registo.
+A aplicação TreePoint, desenvolvida no âmbito das duas Comunidades Intermunicipais de Coimbra e Viseu Dão Lafões (doravante CIM's), visa apoiar o registo arbóreo de cada região. A aplicação utiliza uma ligação por Bluetooth a um GPS externo que é colocado em cada árvore. Em seguida, um técnico preenche os dados da árvore no dispositivo móvel. Assim que possível, o registo é enviado para a base de dados. A aplicação permite agregar uma ou mais fotografias da árvore ao registo.
 
 ## Funcionalidades
 
-- Registo de árvores com geolocalização através de GPS externo via Bluetooth
+- Registo de árvores com geolocalização por via de GPS externo (conectado via Bluetooth)
 - Preenchimento e envio de dados das árvores para a base de dados
 - Capacidade de adicionar fotografias ao registo de cada árvore
 
